@@ -192,3 +192,5 @@ $$Q = \sum_{i} (e_{ii} - a_i^2)$$
 
 ## 🤝 Project Credits
 Created for **Big Data Analytics Laboratory Mini Project**.
+#   S o c i a l - M e d i a - S e n t i m e n t - T r e n d - A n a l y s i s  
+ 
