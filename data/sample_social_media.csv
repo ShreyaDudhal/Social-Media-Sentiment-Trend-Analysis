@@ -1,0 +1,351 @@
+user_id,post,timestamp,likes,comments,shares,hashtags,mentioned_user
+U024,Corrupted CSV input caused parser exceptions during PySpark read. Adding validation checks immediately @U033,2026-09-20 07:38:08,233,23,104,#Education #EdTech #Learning,U033
+U021,Big Data Analytics laboratory sessions are super interesting this semester. Thanks to @U016 for helping out!,2026-09-07 01:17:08,176,78,109,#Cloud #DevOps #BigData,U016
+U018,Excited about the latest breakthroughs in Generative AI and Large Language Models. What a time to be in tech!,2026-09-13 02:39:08,120,37,84,#DataScience #Statistics #PySpark,U016
+U037,Running community detection algorithms on user mention networks. Results look balanced.,2026-09-29 09:12:08,57,57,60,#Cloud #DevOps #BigData,U041
+U031,Spark job failed due to missing dependency drivers on Windows environment. Spent hours debugging with @U040.,2026-09-15 17:11:08,115,85,60,#Python #PySpark #BigData,U040
+U048,Exploring MongoDB collections and NoSQL schema design for social media post storage.,2026-09-07 11:17:08,423,40,33,#Python #PySpark #BigData,U043
+U045,Discussing social network graph metrics including degree centrality and modularity with @U040.,2026-09-28 03:02:08,315,55,40,#DataScience #Analytics #BigData,U040
+U018,Scheduled a group meeting with @U022 to discuss PyMongo connection fallback logic.,2026-09-12 14:26:08,303,83,71,#SocialMedia #Trends #DigitalMarketing,U022
+U022,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-25 14:38:08,412,69,38,#CloudComputing #AWS #Azure,U018
+U034,VADER sentiment misclassified sarcasm in some negative tweets. Fine-tuning thresholds with @U032.,2026-09-07 14:05:08,45,69,95,#AI #GenAI #FutureOfWork,U032
+U021,Network visualization gets cluttered when plotting over 1000 nodes at once. Need to filter top centrality users.,2026-09-21 19:12:08,80,56,90,#DataScience #Statistics #PySpark,U030
+U042,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-19 13:57:08,100,45,48,#AI #ArtificialIntelligence #TechTrends,U011
+U005,Reading papers on social network analysis and community detection algorithms in python.,2026-09-15 02:28:08,325,83,32,#Cloud #DevOps #BigData,U001
+U027,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-02 06:13:08,147,81,14,#Cloud #Tech #CyberSecurity,U024
+U015,Excited about the latest breakthroughs in Generative AI and Large Language Models. What a time to be in tech!,2026-09-20 10:50:08,37,22,84,#Education #EdTech #Learning,U014
+U012,Social media API rate limits are extremely restrictive now. Glad we can use custom CSV datasets instead.,2026-09-01 20:11:08,275,20,42,#DataScience #DataVisualisation #Tech,U014
+U040,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-05 10:53:08,145,59,113,#SocialMedia #Networking #Tech,U008
+U013,Social media API rate limits are extremely restrictive now. Glad we can use custom CSV datasets instead.,2026-09-15 02:31:08,185,8,31,#DataScience #Statistics #PySpark,U012
+U043,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-19 07:14:08,174,39,11,#Education #Tech #Career,U042
+U015,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-30 09:00:08,268,50,54,#SocialMedia #SentimentAnalysis #Analytics,U011
+U024,VADER sentiment misclassified sarcasm in some negative tweets. Fine-tuning thresholds with @U032.,2026-08-31 20:31:08,167,0,33,#Cloud #Tech #CyberSecurity,U032
+U040,Excited about the latest breakthroughs in Generative AI and Large Language Models. What a time to be in tech!,2026-09-17 15:45:08,39,57,88,#Education #EdTech #Learning,U033
+U036,Spark job failed due to missing dependency drivers on Windows environment. Spent hours debugging with @U033.,2026-09-25 07:11:08,381,34,59,#DataScience #DataVisualisation #Tech,U033
+U045,Disappointed with noisy data quality in raw social media posts. Preprocessing took way longer than expected.,2026-09-16 23:48:08,397,13,89,#Cloud #DevOps #BigData,U024
+U007,Scheduled a group meeting with @U008 to discuss PyMongo connection fallback logic.,2026-08-31 22:17:08,296,59,6,#Cloud #DevOps #BigData,U008
+U031,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-12 03:31:08,325,23,34,#DataScience #DataVisualisation #Tech,U035
+U038,Spark job failed due to missing dependency drivers on Windows environment. Spent hours debugging with @U034.,2026-09-17 10:53:08,354,55,100,#CloudComputing #AWS #Azure,U034
+U045,Comparing PySpark DataFrame operations vs Pandas for large scale data preprocessing tasks.,2026-09-16 23:20:08,84,56,117,#AI #ArtificialIntelligence #TechTrends,U038
+U039,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U035,2026-09-09 22:29:08,31,45,120,#Cloud #DevOps #BigData,U035
+U034,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-17 13:45:08,178,65,12,#SocialMedia #SentimentAnalysis #Analytics,U039
+U022,Running community detection algorithms on user mention networks. Results look balanced.,2026-09-14 11:45:08,185,57,73,#SocialMedia #SentimentAnalysis #Analytics,U025
+U048,Check out this awesome dashboard built with Streamlit and Plotly. Super clean UI! @U032,2026-09-19 20:22:08,159,13,31,#Education #Tech #Career,U032
+U042,Disappointed with noisy data quality in raw social media posts. Preprocessing took way longer than expected.,2026-09-08 09:13:08,439,77,35,#SocialMedia #Networking #Tech,U044
+U006,Big thanks to @U005 for sharing insightful tips on PySpark DataFrame optimizations!,2026-09-08 02:33:08,240,39,46,#SocialMedia #Networking #Tech,U005
+U050,Wonderful workshop on graph analytics and degree centrality metrics by @U009. Highly recommended!,2026-09-20 11:03:08,200,66,9,#AI #GenAI #FutureOfWork,U009
+U028,Excited about the latest breakthroughs in Generative AI and Large Language Models. What a time to be in tech!,2026-09-09 01:04:08,200,52,39,#CloudComputing #AWS #Azure,U002
+U010,Discussing social network graph metrics including degree centrality and modularity with @U011.,2026-09-21 04:23:08,164,48,82,#Python #DataScience #Coding,U011
+U034,Just completed our community detection project using Greedy Modularity algorithms! Works like a charm with @U036.,2026-09-07 03:50:08,17,58,53,#Education #Tech #Career,U036
+U001,Testing VADER sentiment compound thresholds on synthetic vs real Twitter dataset records. @U003,2026-09-30 03:53:08,120,21,105,#Education #BigDataAnalytics #StudentLife,U003
+U044,Discussing social network graph metrics including degree centrality and modularity with @U033.,2026-09-10 04:20:08,322,74,56,#CloudComputing #AWS #Azure,U033
+U026,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-23 06:05:08,122,73,29,#Education #BigDataAnalytics #StudentLife,U029
+U009,Big thanks to @U014 for sharing insightful tips on PySpark DataFrame optimizations!,2026-09-15 17:13:08,307,71,111,#Cloud #DevOps #BigData,U014
+U038,Too many missing values in the retweets and shares column! Standardizing CSV schemas is painful. @U041,2026-09-13 11:19:08,407,40,3,#Cloud #DevOps #BigData,U041
+U017,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-24 09:55:08,152,12,0,#DataScience #Statistics #PySpark,U019
+U006,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-26 05:28:08,27,33,104,#SocialMedia #Trends #DigitalMarketing,U049
+U012,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U026,2026-09-16 06:31:08,386,80,55,#Education #BigDataAnalytics #StudentLife,U026
+U012,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-09 03:45:08,122,46,10,#Python #DataScience #Coding,U010
+U047,Disappointed with noisy data quality in raw social media posts. Preprocessing took way longer than expected.,2026-09-11 15:16:08,308,17,107,#Cloud #Tech #CyberSecurity,U006
+U002,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-06 22:52:08,105,33,22,#Python #PySpark #BigData,U050
+U022,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-19 04:28:08,213,77,111,#Education #EdTech #Learning,U023
+U041,"Analyzing user activity and post engagement across 10,000 social media records today. @U015",2026-09-07 13:03:08,447,52,89,#AI #GenAI #FutureOfWork,U015
+U048,Running community detection algorithms on user mention networks. Results look balanced.,2026-09-21 18:35:08,310,7,9,#Cloud #DevOps #BigData,U024
+U004,"Analyzing user activity and post engagement across 10,000 social media records today. @U011",2026-09-04 01:32:08,14,11,41,#SocialMedia #SentimentAnalysis #Analytics,U011
+U033,Disappointed with noisy data quality in raw social media posts. Preprocessing took way longer than expected.,2026-09-16 05:24:08,125,72,55,#Education #Tech #Career,U031
+U028,Too many missing values in the retweets and shares column! Standardizing CSV schemas is painful. @U036,2026-09-22 18:05:08,422,64,79,#SocialMedia #Networking #Tech,U036
+U029,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-01 08:52:08,96,56,97,#DataScience #Analytics #BigData,U027
+U028,Corrupted CSV input caused parser exceptions during PySpark read. Adding validation checks immediately @U025,2026-09-28 20:10:08,12,11,77,#AI #MachineLearning #DeepLearning,U025
+U027,Comparing PySpark DataFrame operations vs Pandas for large scale data preprocessing tasks.,2026-09-17 14:54:08,26,18,71,#AI #ArtificialIntelligence #TechTrends,U034
+U013,Exploring MongoDB collections and NoSQL schema design for social media post storage.,2026-08-31 19:34:08,216,4,87,#SocialMedia #SentimentAnalysis #Analytics,U041
+U030,Wonderful workshop on graph analytics and degree centrality metrics by @U016. Highly recommended!,2026-09-12 17:38:08,67,4,2,#Python #DataScience #Coding,U016
+U023,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U017,2026-09-07 14:30:08,229,57,53,#Python #DataScience #Coding,U017
+U047,Reading papers on social network analysis and community detection algorithms in python.,2026-09-21 17:13:08,253,42,95,#Education #EdTech #Learning,U036
+U049,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-01 06:26:08,423,82,45,#AI #GenAI #FutureOfWork,U050
+U033,Reading papers on social network analysis and community detection algorithms in python.,2026-09-01 04:45:08,352,46,16,#Education #BigDataAnalytics #StudentLife,U035
+U013,Social media API rate limits are extremely restrictive now. Glad we can use custom CSV datasets instead.,2026-09-20 13:38:08,126,60,60,#DataScience #Statistics #PySpark,U009
+U020,Too many missing values in the retweets and shares column! Standardizing CSV schemas is painful. @U047,2026-09-22 20:11:08,240,31,79,#AI #MachineLearning #DeepLearning,U047
+U036,Testing VADER sentiment compound thresholds on synthetic vs real Twitter dataset records. @U038,2026-09-29 22:42:08,395,32,67,#Education #Tech #Career,U038
+U001,Exploring MongoDB collections and NoSQL schema design for social media post storage.,2026-09-30 18:12:08,334,0,88,#Education #Tech #Career,U002
+U015,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-01 22:18:08,144,53,61,#AI #GenAI #FutureOfWork,U010
+U009,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-27 20:17:08,6,47,70,#Cloud #Tech #CyberSecurity,U013
+U030,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-13 02:19:08,297,66,85,#SocialMedia #Trends #DigitalMarketing,U027
+U031,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-13 14:17:08,11,27,62,#Python #DataScience #Coding,U037
+U042,Excited about the latest breakthroughs in Generative AI and Large Language Models. What a time to be in tech!,2026-09-15 16:21:08,33,48,87,#SocialMedia #Networking #Tech,U021
+U025,Reading papers on social network analysis and community detection algorithms in python.,2026-09-12 23:40:08,162,6,17,#SocialMedia #SentimentAnalysis #Analytics,U030
+U009,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-15 03:35:08,10,10,119,#Cloud #Tech #CyberSecurity,U012
+U003,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-10 00:14:08,298,58,3,#Python #PySpark #BigData,U007
+U042,Wonderful workshop on graph analytics and degree centrality metrics by @U022. Highly recommended!,2026-09-24 05:33:08,439,66,6,#Python #DataScience #Coding,U022
+U029,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-22 09:03:08,14,52,60,#SocialMedia #Trends #DigitalMarketing,U028
+U041,Big thanks to @U014 for sharing insightful tips on PySpark DataFrame optimizations!,2026-09-08 15:25:08,54,50,95,#Education #Tech #Career,U014
+U006,Loving how easy it is to analyze social network graphs using NetworkX and PySpark! Great learning experience.,2026-09-16 17:23:08,84,0,13,#DataScience #Analytics #BigData,U004
+U042,"MongoDB service failed to start locally. Thankfully our app has a fallback mode, but annoying nonetheless.",2026-09-23 09:40:08,261,25,83,#SocialMedia #Trends #DigitalMarketing,U046
+U015,Testing VADER sentiment compound thresholds on synthetic vs real Twitter dataset records. @U010,2026-09-17 19:27:08,313,83,23,#DataScience #Statistics #PySpark,U010
+U038,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-18 07:09:08,314,31,107,#Education #BigDataAnalytics #StudentLife,U008
+U019,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-25 04:19:08,441,16,116,#Python #DataScience #Coding,U020
+U034,Scheduled a group meeting with @U040 to discuss PyMongo connection fallback logic.,2026-09-01 18:00:08,54,7,29,#DataScience #Analytics #BigData,U040
+U021,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-19 17:00:08,290,20,5,#SocialMedia #Networking #Tech,U032
+U042,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-13 06:43:08,323,71,59,#DataScience #Analytics #BigData,U004
+U025,Comparing PySpark DataFrame operations vs Pandas for large scale data preprocessing tasks.,2026-09-21 00:09:08,296,47,49,#SocialMedia #SentimentAnalysis #Analytics,U048
+U047,Exploring MongoDB collections and NoSQL schema design for social media post storage.,2026-09-20 12:41:08,65,53,106,#Education #BigDataAnalytics #StudentLife,U043
+U015,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-29 08:34:08,383,82,112,#Cloud #Tech #CyberSecurity,U010
+U007,Frustrated with memory errors when running unoptimized Spark joins on massive datasets. Need to refactor @U001,2026-09-16 10:02:08,105,49,61,#DataScience #Analytics #BigData,U001
+U005,Spark job failed due to missing dependency drivers on Windows environment. Spent hours debugging with @U038.,2026-09-02 12:12:08,124,38,16,#AI #MachineLearning #DeepLearning,U038
+U045,Exploring MongoDB collections and NoSQL schema design for social media post storage.,2026-09-23 03:36:08,412,26,115,#DataScience #DataVisualisation #Tech,U035
+U036,Corrupted CSV input caused parser exceptions during PySpark read. Adding validation checks immediately @U040,2026-09-21 22:30:08,391,53,71,#DataScience #Analytics #BigData,U040
+U045,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-27 11:34:08,333,10,41,#AI #ArtificialIntelligence #TechTrends,U035
+U040,Big Data Analytics laboratory sessions are super interesting this semester. Thanks to @U036 for helping out!,2026-09-11 14:54:08,120,66,53,#Education #EdTech #Learning,U036
+U026,Wonderful workshop on graph analytics and degree centrality metrics by @U017. Highly recommended!,2026-09-11 01:32:08,53,40,36,#AI #GenAI #FutureOfWork,U017
+U031,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U038,2026-09-09 03:41:08,106,22,109,#Education #EdTech #Learning,U038
+U007,Testing VADER sentiment compound thresholds on synthetic vs real Twitter dataset records. @U006,2026-09-06 23:02:08,306,75,0,#Cloud #DevOps #BigData,U006
+U013,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-19 14:31:08,450,80,91,#Python #Developer #Programming,U038
+U011,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U009,2026-09-14 17:28:08,293,36,11,#Education #Tech #Career,U009
+U015,Scheduled a group meeting with @U038 to discuss PyMongo connection fallback logic.,2026-09-29 13:50:08,408,77,21,#Python #Developer #Programming,U038
+U049,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U016,2026-09-29 16:24:08,41,49,65,#DataScience #Analytics #BigData,U016
+U034,Scheduled a group meeting with @U003 to discuss PyMongo connection fallback logic.,2026-09-28 16:45:08,359,62,61,#Cloud #Tech #CyberSecurity,U003
+U004,"MongoDB service failed to start locally. Thankfully our app has a fallback mode, but annoying nonetheless.",2026-09-21 13:49:08,304,57,9,#Python #DataScience #Coding,U002
+U042,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-22 17:00:08,65,62,90,#Cloud #Tech #CyberSecurity,U003
+U013,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-06 09:03:08,361,82,25,#Education #EdTech #Learning,U014
+U023,Just completed our community detection project using Greedy Modularity algorithms! Works like a charm with @U016.,2026-09-24 04:58:08,195,67,78,#DataScience #DataVisualisation #Tech,U016
+U047,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-01 02:02:08,185,66,107,#AI #GenAI #FutureOfWork,U032
+U028,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U026,2026-09-11 10:06:08,420,72,61,#SocialMedia #Networking #Tech,U026
+U013,Scheduled a group meeting with @U037 to discuss PyMongo connection fallback logic.,2026-09-11 00:04:08,166,7,44,#Python #Developer #Programming,U037
+U037,"Analyzing user activity and post engagement across 10,000 social media records today. @U040",2026-09-30 12:05:08,40,63,27,#DataScience #Statistics #PySpark,U040
+U020,Testing VADER sentiment compound thresholds on synthetic vs real Twitter dataset records. @U023,2026-09-26 19:20:08,208,76,108,#SocialMedia #SentimentAnalysis #Analytics,U023
+U043,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-25 08:07:08,365,53,26,#Cloud #DevOps #BigData,U047
+U015,Network visualization gets cluttered when plotting over 1000 nodes at once. Need to filter top centrality users.,2026-09-18 10:35:08,377,32,118,#AI #GenAI #FutureOfWork,U010
+U002,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U007,2026-09-06 19:21:08,33,42,91,#Education #Tech #Career,U007
+U011,Network visualization gets cluttered when plotting over 1000 nodes at once. Need to filter top centrality users.,2026-09-28 01:10:08,357,37,110,#AI #GenAI #FutureOfWork,U010
+U012,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-05 22:13:08,333,65,83,#SocialMedia #Trends #DigitalMarketing,U013
+U017,Scheduled a group meeting with @U021 to discuss PyMongo connection fallback logic.,2026-09-07 04:08:08,139,21,82,#Python #PySpark #BigData,U021
+U049,VADER sentiment misclassified sarcasm in some negative tweets. Fine-tuning thresholds with @U031.,2026-09-12 23:56:08,137,5,50,#Cloud #Tech #CyberSecurity,U031
+U005,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-13 02:22:08,260,74,65,#Cloud #Tech #CyberSecurity,U040
+U022,"MongoDB service failed to start locally. Thankfully our app has a fallback mode, but annoying nonetheless.",2026-09-14 01:34:08,225,8,50,#Python #DataScience #Coding,U049
+U043,Running community detection algorithms on user mention networks. Results look balanced.,2026-09-27 07:04:08,47,33,21,#Python #PySpark #BigData,U030
+U027,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U030,2026-09-11 19:48:08,283,82,39,#Python #Developer #Programming,U030
+U024,Python and PySpark make complex data pipelines look effortless! High efficiency all around. @U025,2026-09-25 08:42:08,154,42,97,#Cloud #Tech #CyberSecurity,U025
+U017,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-17 15:18:08,231,25,109,#DataScience #Statistics #PySpark,U019
+U031,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-21 19:14:08,183,72,93,#Python #Developer #Programming,U037
+U049,Frustrated with memory errors when running unoptimized Spark joins on massive datasets. Need to refactor @U026,2026-09-27 00:39:08,359,20,94,#Education #BigDataAnalytics #StudentLife,U026
+U004,Too many missing values in the retweets and shares column! Standardizing CSV schemas is painful. @U007,2026-09-28 09:56:08,89,4,95,#SocialMedia #Trends #DigitalMarketing,U007
+U006,Wonderful workshop on graph analytics and degree centrality metrics by @U007. Highly recommended!,2026-09-29 09:21:08,36,71,98,#Python #Developer #Programming,U007
+U028,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-08 22:56:08,229,3,86,#Cloud #DevOps #BigData,U044
+U043,Python and PySpark make complex data pipelines look effortless! High efficiency all around. @U045,2026-09-07 15:29:08,190,33,92,#SocialMedia #SentimentAnalysis #Analytics,U045
+U002,Loving how easy it is to analyze social network graphs using NetworkX and PySpark! Great learning experience.,2026-09-07 09:37:08,151,42,66,#AI #GenAI #FutureOfWork,U008
+U011,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-13 03:18:08,61,22,40,#DataScience #Statistics #PySpark,U012
+U042,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U043,2026-09-11 08:43:08,300,53,117,#SocialMedia #Networking #Tech,U043
+U036,Social media API rate limits are extremely restrictive now. Glad we can use custom CSV datasets instead.,2026-09-24 04:17:08,449,27,54,#SocialMedia #SentimentAnalysis #Analytics,U015
+U007,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-07 02:29:08,78,60,35,#DataScience #Analytics #BigData,U002
+U029,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-14 16:44:08,374,73,61,#Python #Developer #Programming,U028
+U038,Reading papers on social network analysis and community detection algorithms in python.,2026-09-22 13:07:08,203,19,47,#Education #BigDataAnalytics #StudentLife,U012
+U036,Struggling with slow network graph rendering on heavy social media datasets. Optimizing layout now.,2026-09-13 19:45:08,435,8,41,#Python #Developer #Programming,U031
+U024,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-15 10:56:08,252,23,68,#SocialMedia #Networking #Tech,U025
+U035,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-23 13:27:08,127,39,35,#Cloud #DevOps #BigData,U040
+U019,Python and PySpark make complex data pipelines look effortless! High efficiency all around. @U021,2026-09-16 01:25:08,212,18,85,#DataScience #Analytics #BigData,U021
+U015,Struggling with slow network graph rendering on heavy social media datasets. Optimizing layout now.,2026-09-10 19:52:08,34,45,109,#AI #MachineLearning #DeepLearning,U010
+U029,Testing VADER sentiment compound thresholds on synthetic vs real Twitter dataset records. @U017,2026-09-01 05:28:08,285,83,3,#Python #Developer #Programming,U017
+U024,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-12 22:00:08,435,71,115,#CloudComputing #AWS #Azure,U029
+U008,Comparing PySpark DataFrame operations vs Pandas for large scale data preprocessing tasks.,2026-09-02 05:32:08,189,13,100,#SocialMedia #Networking #Tech,U006
+U003,"Analyzing user activity and post engagement across 10,000 social media records today. @U007",2026-09-01 19:16:08,268,21,32,#CloudComputing #AWS #Azure,U007
+U021,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U027,2026-09-20 22:27:08,178,43,53,#CloudComputing #AWS #Azure,U027
+U026,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-11 05:39:08,385,24,84,#Education #EdTech #Learning,U029
+U003,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-11 13:01:08,320,85,117,#Education #BigDataAnalytics #StudentLife,U019
+U050,Scheduled a group meeting with @U027 to discuss PyMongo connection fallback logic.,2026-09-20 18:36:08,342,10,1,#SocialMedia #Networking #Tech,U027
+U040,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-08-31 22:44:08,345,60,2,#SocialMedia #Trends #DigitalMarketing,U038
+U005,"MongoDB service failed to start locally. Thankfully our app has a fallback mode, but annoying nonetheless.",2026-09-20 16:57:08,420,9,61,#Python #PySpark #BigData,U001
+U047,Excited about the latest breakthroughs in Generative AI and Large Language Models. What a time to be in tech!,2026-09-30 02:54:08,307,79,1,#CloudComputing #AWS #Azure,U014
+U033,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U018,2026-09-15 01:40:08,218,10,14,#Cloud #Tech #CyberSecurity,U018
+U046,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-01 00:22:08,74,78,29,#SocialMedia #Trends #DigitalMarketing,U037
+U014,Python and PySpark make complex data pipelines look effortless! High efficiency all around. @U009,2026-09-23 23:11:08,186,80,6,#Cloud #DevOps #BigData,U009
+U024,Loving how easy it is to analyze social network graphs using NetworkX and PySpark! Great learning experience.,2026-09-07 20:44:08,167,59,68,#DataScience #Analytics #BigData,U038
+U031,Spark job failed due to missing dependency drivers on Windows environment. Spent hours debugging with @U037.,2026-09-03 06:35:08,411,60,97,#Python #Developer #Programming,U037
+U025,Big Data Analytics laboratory sessions are super interesting this semester. Thanks to @U030 for helping out!,2026-09-29 11:51:08,235,65,44,#Python #Developer #Programming,U030
+U001,Big thanks to @U006 for sharing insightful tips on PySpark DataFrame optimizations!,2026-09-14 08:52:08,259,42,56,#Python #PySpark #BigData,U006
+U028,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-10 23:22:08,54,30,6,#AI #GenAI #FutureOfWork,U030
+U007,Loving how easy it is to analyze social network graphs using NetworkX and PySpark! Great learning experience.,2026-09-12 02:41:08,305,58,46,#Python #DataScience #Coding,U008
+U049,Big thanks to @U006 for sharing insightful tips on PySpark DataFrame optimizations!,2026-09-04 22:43:08,344,70,113,#Education #Tech #Career,U006
+U021,Excited about the latest breakthroughs in Generative AI and Large Language Models. What a time to be in tech!,2026-09-01 04:19:08,275,35,103,#Cloud #DevOps #BigData,U035
+U035,Reading papers on social network analysis and community detection algorithms in python.,2026-09-27 16:05:08,299,37,64,#AI #GenAI #FutureOfWork,U037
+U013,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-25 11:01:08,123,24,46,#Education #Tech #Career,U010
+U044,Big Data Analytics laboratory sessions are super interesting this semester. Thanks to @U035 for helping out!,2026-09-21 12:25:08,169,56,45,#SocialMedia #SentimentAnalysis #Analytics,U035
+U016,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-22 01:12:08,355,76,50,#Education #EdTech #Learning,U017
+U019,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-14 18:50:08,444,38,67,#AI #MachineLearning #DeepLearning,U032
+U019,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-28 14:33:08,125,58,96,#Education #Tech #Career,U020
+U005,Big thanks to @U033 for sharing insightful tips on PySpark DataFrame optimizations!,2026-09-05 19:32:08,84,27,32,#SocialMedia #SentimentAnalysis #Analytics,U033
+U003,VADER sentiment misclassified sarcasm in some negative tweets. Fine-tuning thresholds with @U024.,2026-09-25 06:20:08,210,74,59,#DataScience #Statistics #PySpark,U024
+U004,Loving how easy it is to analyze social network graphs using NetworkX and PySpark! Great learning experience.,2026-09-26 03:04:08,192,5,16,#Cloud #DevOps #BigData,U007
+U014,"Analyzing user activity and post engagement across 10,000 social media records today. @U010",2026-09-25 14:02:08,158,4,67,#AI #GenAI #FutureOfWork,U010
+U049,Big thanks to @U004 for sharing insightful tips on PySpark DataFrame optimizations!,2026-09-09 08:38:08,298,8,17,#DataScience #Statistics #PySpark,U004
+U025,Comparing PySpark DataFrame operations vs Pandas for large scale data preprocessing tasks.,2026-09-28 01:12:08,406,7,26,#Cloud #DevOps #BigData,U030
+U033,Struggling with slow network graph rendering on heavy social media datasets. Optimizing layout now.,2026-09-29 09:39:08,387,67,38,#Education #BigDataAnalytics #StudentLife,U032
+U027,Reading papers on social network analysis and community detection algorithms in python.,2026-09-26 02:06:08,23,33,31,#Python #PySpark #BigData,U047
+U047,Big thanks to @U032 for sharing insightful tips on PySpark DataFrame optimizations!,2026-09-11 07:09:08,443,26,71,#SocialMedia #Networking #Tech,U032
+U014,Comparing PySpark DataFrame operations vs Pandas for large scale data preprocessing tasks.,2026-09-19 08:25:08,199,2,95,#Python #PySpark #BigData,U011
+U024,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-08 15:50:08,64,7,63,#Cloud #DevOps #BigData,U029
+U002,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-19 06:27:08,272,27,37,#AI #GenAI #FutureOfWork,U009
+U017,Big Data Analytics laboratory sessions are super interesting this semester. Thanks to @U021 for helping out!,2026-09-18 15:39:08,360,50,111,#DataScience #Statistics #PySpark,U021
+U010,Spark job failed due to missing dependency drivers on Windows environment. Spent hours debugging with @U013.,2026-09-22 12:24:08,414,31,80,#SocialMedia #Trends #DigitalMarketing,U013
+U027,Exploring MongoDB collections and NoSQL schema design for social media post storage.,2026-09-03 02:51:08,50,66,41,#SocialMedia #Trends #DigitalMarketing,U028
+U029,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-20 14:17:08,110,28,27,#SocialMedia #Networking #Tech,U024
+U030,Corrupted CSV input caused parser exceptions during PySpark read. Adding validation checks immediately @U032,2026-09-20 10:27:08,415,44,119,#AI #GenAI #FutureOfWork,U032
+U019,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-15 19:52:08,75,40,98,#Python #PySpark #BigData,U017
+U037,Big Data Analytics laboratory sessions are super interesting this semester. Thanks to @U040 for helping out!,2026-09-23 13:37:08,302,39,32,#AI #MachineLearning #DeepLearning,U040
+U013,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-17 21:16:08,372,68,16,#SocialMedia #Trends #DigitalMarketing,U011
+U030,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U026,2026-09-02 19:03:08,294,31,60,#AI #MachineLearning #DeepLearning,U026
+U040,Big thanks to @U037 for sharing insightful tips on PySpark DataFrame optimizations!,2026-09-17 11:18:08,212,50,61,#AI #MachineLearning #DeepLearning,U037
+U024,Disappointed with noisy data quality in raw social media posts. Preprocessing took way longer than expected.,2026-09-19 21:11:08,267,38,76,#SocialMedia #Networking #Tech,U028
+U022,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-05 23:56:08,277,71,55,#Python #DataScience #Coding,U013
+U021,Wonderful workshop on graph analytics and degree centrality metrics by @U023. Highly recommended!,2026-09-22 17:51:08,145,29,28,#Python #Developer #Programming,U023
+U025,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-30 15:30:08,435,7,82,#DataScience #Statistics #PySpark,U030
+U050,Python and PySpark make complex data pipelines look effortless! High efficiency all around. @U019,2026-09-12 14:49:08,344,74,97,#AI #GenAI #FutureOfWork,U019
+U020,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-21 12:07:08,121,17,92,#DataScience #Analytics #BigData,U017
+U044,Reading papers on social network analysis and community detection algorithms in python.,2026-08-31 22:32:08,419,21,14,#Python #DataScience #Coding,U035
+U012,Testing VADER sentiment compound thresholds on synthetic vs real Twitter dataset records. @U010,2026-09-10 16:06:08,320,80,113,#AI #ArtificialIntelligence #TechTrends,U010
+U049,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U025,2026-09-16 12:08:08,95,65,112,#Education #Tech #Career,U025
+U030,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-03 07:26:08,320,66,46,#SocialMedia #Trends #DigitalMarketing,U026
+U012,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U013,2026-09-28 20:10:08,24,19,40,#CloudComputing #AWS #Azure,U013
+U017,Scheduled a group meeting with @U020 to discuss PyMongo connection fallback logic.,2026-09-22 13:13:08,177,17,116,#Education #Tech #Career,U020
+U029,"MongoDB service failed to start locally. Thankfully our app has a fallback mode, but annoying nonetheless.",2026-09-08 23:29:08,157,17,36,#Python #PySpark #BigData,U026
+U050,Loving how easy it is to analyze social network graphs using NetworkX and PySpark! Great learning experience.,2026-09-11 00:41:08,145,17,40,#Python #PySpark #BigData,U010
+U044,Disappointed with noisy data quality in raw social media posts. Preprocessing took way longer than expected.,2026-09-04 17:48:08,102,61,77,#DataScience #Analytics #BigData,U002
+U041,Big Data Analytics laboratory sessions are super interesting this semester. Thanks to @U028 for helping out!,2026-09-10 15:58:08,123,61,61,#Python #DataScience #Coding,U028
+U049,Scheduled a group meeting with @U030 to discuss PyMongo connection fallback logic.,2026-09-11 12:30:08,373,4,29,#Python #Developer #Programming,U030
+U006,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-06 05:40:08,45,84,114,#Python #Developer #Programming,U007
+U022,Spark job failed due to missing dependency drivers on Windows environment. Spent hours debugging with @U041.,2026-09-20 17:12:08,435,84,115,#Cloud #Tech #CyberSecurity,U041
+U038,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U007,2026-09-18 03:32:08,182,22,11,#Education #EdTech #Learning,U007
+U001,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-28 17:38:08,138,7,120,#Education #Tech #Career,U038
+U020,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-26 02:41:08,78,75,67,#SocialMedia #Networking #Tech,U021
+U043,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-09 09:40:08,91,41,54,#DataScience #Analytics #BigData,U048
+U012,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-07 20:26:08,293,80,79,#CloudComputing #AWS #Azure,U014
+U015,Python and PySpark make complex data pipelines look effortless! High efficiency all around. @U011,2026-09-01 07:04:08,89,5,59,#DataScience #Statistics #PySpark,U011
+U024,Loving how easy it is to analyze social network graphs using NetworkX and PySpark! Great learning experience.,2026-09-19 07:54:08,276,48,35,#Python #DataScience #Coding,U028
+U040,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-06 22:35:08,218,28,78,#Python #DataScience #Coding,U036
+U001,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U007,2026-09-03 04:32:08,375,42,22,#AI #ArtificialIntelligence #TechTrends,U007
+U024,Disappointed with noisy data quality in raw social media posts. Preprocessing took way longer than expected.,2026-09-23 21:16:08,429,46,28,#AI #ArtificialIntelligence #TechTrends,U030
+U011,Running community detection algorithms on user mention networks. Results look balanced.,2026-09-24 03:23:08,420,64,77,#SocialMedia #Trends #DigitalMarketing,U013
+U027,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U024,2026-09-26 20:17:08,224,61,50,#DataScience #Analytics #BigData,U024
+U044,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-23 22:23:08,407,36,73,#Python #Developer #Programming,U043
+U015,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-23 14:59:08,208,18,48,#Python #DataScience #Coding,U002
+U034,Running community detection algorithms on user mention networks. Results look balanced.,2026-09-08 17:42:08,51,7,27,#Python #Developer #Programming,U038
+U050,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-21 08:02:08,46,79,59,#DataScience #Analytics #BigData,U039
+U004,Excited about the latest breakthroughs in Generative AI and Large Language Models. What a time to be in tech!,2026-09-08 18:19:08,221,10,63,#Cloud #DevOps #BigData,U001
+U026,Testing VADER sentiment compound thresholds on synthetic vs real Twitter dataset records. @U028,2026-08-31 22:14:08,143,25,81,#DataScience #DataVisualisation #Tech,U028
+U050,Exploring MongoDB collections and NoSQL schema design for social media post storage.,2026-09-29 20:45:08,400,71,55,#Python #Developer #Programming,U009
+U034,Loving how easy it is to analyze social network graphs using NetworkX and PySpark! Great learning experience.,2026-09-03 17:56:08,134,53,98,#Education #EdTech #Learning,U037
+U039,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-11 03:09:08,111,22,92,#Python #Developer #Programming,U035
+U041,Comparing PySpark DataFrame operations vs Pandas for large scale data preprocessing tasks.,2026-09-02 15:16:08,217,43,66,#SocialMedia #Trends #DigitalMarketing,U034
+U042,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-22 08:04:08,180,44,65,#Python #DataScience #Coding,U025
+U011,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-15 14:58:08,159,37,89,#Education #BigDataAnalytics #StudentLife,U015
+U021,Check out this awesome dashboard built with Streamlit and Plotly. Super clean UI! @U020,2026-09-04 16:55:08,323,14,11,#DataScience #DataVisualisation #Tech,U020
+U036,Python and PySpark make complex data pipelines look effortless! High efficiency all around. @U045,2026-09-09 19:04:08,427,37,53,#Cloud #Tech #CyberSecurity,U045
+U017,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-03 04:01:08,149,3,93,#DataScience #DataVisualisation #Tech,U007
+U037,Scheduled a group meeting with @U032 to discuss PyMongo connection fallback logic.,2026-09-03 15:01:08,389,57,7,#Python #PySpark #BigData,U032
+U046,Struggling with slow network graph rendering on heavy social media datasets. Optimizing layout now.,2026-09-02 07:13:08,320,55,29,#DataScience #DataVisualisation #Tech,U049
+U014,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U010,2026-09-02 21:00:08,390,1,57,#Python #DataScience #Coding,U010
+U034,Just completed our community detection project using Greedy Modularity algorithms! Works like a charm with @U033.,2026-09-04 05:47:08,251,13,91,#DataScience #DataVisualisation #Tech,U033
+U022,Just completed our community detection project using Greedy Modularity algorithms! Works like a charm with @U017.,2026-09-16 14:16:08,285,17,58,#AI #ArtificialIntelligence #TechTrends,U017
+U037,Extremely impressed with the new PySpark 3.5 release! The performance gains in big data processing are incredible.,2026-09-12 02:50:08,438,42,92,#Education #Tech #Career,U034
+U049,Discussing social network graph metrics including degree centrality and modularity with @U026.,2026-09-17 12:00:08,292,46,78,#SocialMedia #Trends #DigitalMarketing,U026
+U002,Too many missing values in the retweets and shares column! Standardizing CSV schemas is painful. @U004,2026-09-16 03:42:08,180,37,8,#Python #Developer #Programming,U004
+U043,Comparing PySpark DataFrame operations vs Pandas for large scale data preprocessing tasks.,2026-09-16 22:06:08,178,57,50,#SocialMedia #SentimentAnalysis #Analytics,U018
+U018,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-12 10:30:08,284,62,99,#Cloud #Tech #CyberSecurity,U022
+U029,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-19 03:16:08,122,3,76,#SocialMedia #Networking #Tech,U026
+U039,Disappointed with noisy data quality in raw social media posts. Preprocessing took way longer than expected.,2026-09-10 23:17:08,214,40,15,#DataScience #Analytics #BigData,U035
+U024,Disappointed with noisy data quality in raw social media posts. Preprocessing took way longer than expected.,2026-09-15 23:25:08,326,21,11,#CloudComputing #AWS #Azure,U030
+U016,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-04 00:22:08,306,13,56,#SocialMedia #Trends #DigitalMarketing,U018
+U004,Check out this awesome dashboard built with Streamlit and Plotly. Super clean UI! @U002,2026-09-06 13:32:08,198,0,20,#DataScience #Analytics #BigData,U002
+U031,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U039,2026-09-07 04:58:08,200,54,10,#Python #DataScience #Coding,U039
+U041,Wonderful workshop on graph analytics and degree centrality metrics by @U023. Highly recommended!,2026-09-02 12:29:08,312,56,118,#AI #MachineLearning #DeepLearning,U023
+U037,Network visualization gets cluttered when plotting over 1000 nodes at once. Need to filter top centrality users.,2026-09-25 14:28:08,353,50,25,#Python #Developer #Programming,U039
+U035,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U036,2026-09-28 17:01:08,71,5,17,#Cloud #Tech #CyberSecurity,U036
+U037,Too many missing values in the retweets and shares column! Standardizing CSV schemas is painful. @U035,2026-09-05 10:34:08,147,60,100,#SocialMedia #Networking #Tech,U035
+U026,Big Data Analytics laboratory sessions are super interesting this semester. Thanks to @U027 for helping out!,2026-09-12 09:06:08,125,80,10,#Education #EdTech #Learning,U027
+U035,Excited about the latest breakthroughs in Generative AI and Large Language Models. What a time to be in tech!,2026-09-22 07:50:08,269,37,114,#DataScience #Statistics #PySpark,U032
+U005,Excited about the latest breakthroughs in Generative AI and Large Language Models. What a time to be in tech!,2026-09-08 05:44:08,447,39,14,#AI #MachineLearning #DeepLearning,U001
+U004,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-07 11:00:08,230,3,34,#Python #DataScience #Coding,U006
+U010,Struggling with slow network graph rendering on heavy social media datasets. Optimizing layout now.,2026-09-20 07:55:08,109,64,56,#Cloud #DevOps #BigData,U015
+U040,Running community detection algorithms on user mention networks. Results look balanced.,2026-09-19 22:36:08,180,26,32,#AI #MachineLearning #DeepLearning,U035
+U046,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-03 06:34:08,420,28,10,#Education #EdTech #Learning,U028
+U013,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U009,2026-09-15 03:10:08,313,52,82,#SocialMedia #Trends #DigitalMarketing,U009
+U024,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U026,2026-09-30 18:26:08,117,57,24,#AI #ArtificialIntelligence #TechTrends,U026
+U026,Running community detection algorithms on user mention networks. Results look balanced.,2026-09-06 06:43:08,353,16,61,#DataScience #Analytics #BigData,U024
+U036,Struggling with slow network graph rendering on heavy social media datasets. Optimizing layout now.,2026-09-24 23:28:08,47,81,79,#Python #DataScience #Coding,U046
+U041,Exploring MongoDB collections and NoSQL schema design for social media post storage.,2026-09-20 16:53:08,210,22,4,#AI #ArtificialIntelligence #TechTrends,U047
+U037,Comparing PySpark DataFrame operations vs Pandas for large scale data preprocessing tasks.,2026-09-19 23:42:08,304,74,42,#Python #Developer #Programming,U033
+U046,Comparing PySpark DataFrame operations vs Pandas for large scale data preprocessing tasks.,2026-09-17 09:18:08,111,62,103,#DataScience #Analytics #BigData,U009
+U032,Testing VADER sentiment compound thresholds on synthetic vs real Twitter dataset records. @U015,2026-09-24 21:13:08,99,31,3,#AI #MachineLearning #DeepLearning,U015
+U024,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-16 06:40:08,243,34,8,#Education #EdTech #Learning,U026
+U024,Big Data Analytics laboratory sessions are super interesting this semester. Thanks to @U029 for helping out!,2026-08-31 23:50:08,5,77,5,#AI #GenAI #FutureOfWork,U029
+U007,Discussing social network graph metrics including degree centrality and modularity with @U004.,2026-09-20 11:00:08,186,56,54,#Cloud #DevOps #BigData,U004
+U035,Python and PySpark make complex data pipelines look effortless! High efficiency all around. @U036,2026-09-18 13:06:08,189,33,111,#Python #DataScience #Coding,U036
+U014,Python and PySpark make complex data pipelines look effortless! High efficiency all around. @U012,2026-09-09 06:08:08,62,12,21,#AI #MachineLearning #DeepLearning,U012
+U026,Python and PySpark make complex data pipelines look effortless! High efficiency all around. @U027,2026-09-27 02:40:08,272,16,28,#SocialMedia #Networking #Tech,U027
+U021,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U006,2026-09-27 14:31:08,323,17,52,#SocialMedia #SentimentAnalysis #Analytics,U006
+U004,Reading papers on social network analysis and community detection algorithms in python.,2026-09-25 14:51:08,126,78,22,#Python #DataScience #Coding,U023
+U037,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-26 03:26:08,176,22,35,#AI #MachineLearning #DeepLearning,U038
+U004,Big Data Analytics laboratory sessions are super interesting this semester. Thanks to @U008 for helping out!,2026-09-10 14:44:08,80,61,113,#Cloud #Tech #CyberSecurity,U008
+U004,Running community detection algorithms on user mention networks. Results look balanced.,2026-09-15 04:52:08,110,23,83,#AI #GenAI #FutureOfWork,U006
+U046,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-08 15:31:08,405,30,32,#Education #EdTech #Learning,U020
+U038,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-21 02:05:08,263,79,17,#CloudComputing #AWS #Azure,U031
+U048,Check out this awesome dashboard built with Streamlit and Plotly. Super clean UI! @U026,2026-09-16 17:39:08,102,32,100,#Python #Developer #Programming,U026
+U040,Data science and big data analytics are transforming how we understand social media trends. Thrilled to build this!,2026-09-19 05:47:08,259,58,48,#Cloud #Tech #CyberSecurity,U034
+U025,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-13 01:31:08,319,57,113,#SocialMedia #Trends #DigitalMarketing,U026
+U030,Disappointed with noisy data quality in raw social media posts. Preprocessing took way longer than expected.,2026-09-24 18:50:08,243,32,40,#SocialMedia #SentimentAnalysis #Analytics,U024
+U009,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U036,2026-09-15 14:06:08,385,11,68,#AI #GenAI #FutureOfWork,U036
+U048,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-13 20:27:08,251,31,21,#Cloud #DevOps #BigData,U010
+U034,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-14 20:53:08,382,48,80,#AI #MachineLearning #DeepLearning,U036
+U041,Testing VADER sentiment compound thresholds on synthetic vs real Twitter dataset records. @U008,2026-09-20 17:35:08,188,35,46,#Python #DataScience #Coding,U008
+U034,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-16 13:33:08,436,74,2,#SocialMedia #Networking #Tech,U033
+U014,Just completed our community detection project using Greedy Modularity algorithms! Works like a charm with @U041.,2026-09-24 22:00:08,331,67,20,#Python #DataScience #Coding,U041
+U024,Check out this awesome dashboard built with Streamlit and Plotly. Super clean UI! @U026,2026-09-09 21:14:08,368,5,96,#Python #DataScience #Coding,U026
+U031,Python and PySpark make complex data pipelines look effortless! High efficiency all around. @U017,2026-09-05 12:47:08,46,82,85,#Python #PySpark #BigData,U017
+U027,Too many missing values in the retweets and shares column! Standardizing CSV schemas is painful. @U028,2026-09-04 08:39:08,385,19,49,#CloudComputing #AWS #Azure,U028
+U050,Wonderful workshop on graph analytics and degree centrality metrics by @U018. Highly recommended!,2026-09-30 11:05:08,170,59,56,#Education #Tech #Career,U018
+U034,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U035,2026-09-19 06:16:08,417,31,0,#Cloud #DevOps #BigData,U035
+U044,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-01 12:52:08,159,50,115,#DataScience #Statistics #PySpark,U046
+U040,Loving how easy it is to analyze social network graphs using NetworkX and PySpark! Great learning experience.,2026-09-29 06:31:08,162,65,14,#Education #BigDataAnalytics #StudentLife,U031
+U040,Loving how easy it is to analyze social network graphs using NetworkX and PySpark! Great learning experience.,2026-09-05 08:25:08,410,71,29,#CloudComputing #AWS #Azure,U034
+U038,Comparing PySpark DataFrame operations vs Pandas for large scale data preprocessing tasks.,2026-09-14 22:34:08,50,33,19,#AI #MachineLearning #DeepLearning,U029
+U032,Network visualization gets cluttered when plotting over 1000 nodes at once. Need to filter top centrality users.,2026-09-23 00:05:08,119,4,66,#SocialMedia #Trends #DigitalMarketing,U043
+U014,Wonderful workshop on graph analytics and degree centrality metrics by @U027. Highly recommended!,2026-09-28 06:19:08,374,40,72,#Python #DataScience #Coding,U027
+U011,Big Data Analytics laboratory sessions are super interesting this semester. Thanks to @U013 for helping out!,2026-09-09 02:32:08,83,17,51,#Education #Tech #Career,U013
+U027,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-13 06:55:08,443,67,35,#DataScience #Analytics #BigData,U025
+U012,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-18 19:37:08,385,10,115,#Cloud #DevOps #BigData,U011
+U050,Check out this awesome dashboard built with Streamlit and Plotly. Super clean UI! @U009,2026-09-03 07:54:08,424,74,95,#AI #GenAI #FutureOfWork,U009
+U019,Social media API rate limits are extremely restrictive now. Glad we can use custom CSV datasets instead.,2026-09-08 19:14:08,117,32,54,#Python #DataScience #Coding,U034
+U021,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-03 10:08:08,400,69,46,#Python #Developer #Programming,U019
+U034,Big thanks to @U035 for sharing insightful tips on PySpark DataFrame optimizations!,2026-09-26 19:52:08,171,47,81,#Education #BigDataAnalytics #StudentLife,U035
+U007,Social media API rate limits are extremely restrictive now. Glad we can use custom CSV datasets instead.,2026-09-17 22:15:08,429,43,118,#Cloud #Tech #CyberSecurity,U006
+U031,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-26 14:34:08,411,55,37,#SocialMedia #SentimentAnalysis #Analytics,U045
+U046,Too many missing values in the retweets and shares column! Standardizing CSV schemas is painful. @U001,2026-09-10 22:43:08,449,1,25,#SocialMedia #SentimentAnalysis #Analytics,U001
+U050,Frustrated with memory errors when running unoptimized Spark joins on massive datasets. Need to refactor @U049,2026-09-14 15:32:08,57,6,102,#Python #PySpark #BigData,U049
+U007,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-24 15:17:08,255,75,104,#AI #MachineLearning #DeepLearning,U008
+U043,Cloud computing paired with Apache Spark handles millions of transactions effortlessly. Brilliant architecture!,2026-09-22 07:36:08,268,33,73,#DataScience #Statistics #PySpark,U046
+U047,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-19 02:22:08,390,79,106,#CloudComputing #AWS #Azure,U010
+U018,Scheduled a group meeting with @U016 to discuss PyMongo connection fallback logic.,2026-09-17 15:54:08,47,48,10,#DataScience #DataVisualisation #Tech,U016
+U046,Check out this awesome dashboard built with Streamlit and Plotly. Super clean UI! @U008,2026-09-12 11:57:08,290,76,18,#DataScience #Statistics #PySpark,U008
+U014,Scheduled a group meeting with @U009 to discuss PyMongo connection fallback logic.,2026-09-12 05:49:08,158,79,65,#Cloud #Tech #CyberSecurity,U009
+U027,Network visualization gets cluttered when plotting over 1000 nodes at once. Need to filter top centrality users.,2026-09-25 18:38:08,133,57,43,#SocialMedia #SentimentAnalysis #Analytics,U024
+U025,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-18 07:23:08,336,38,107,#Education #EdTech #Learning,U027
+U013,Reviewing the syllabus requirements for Big Data Analytics Lab project submission. @U014,2026-09-13 22:14:08,181,62,68,#CloudComputing #AWS #Azure,U014
+U038,MongoDB integration with PyMongo is so smooth. Seamless NoSQL document storage for our mini project!,2026-09-07 10:43:08,358,13,97,#Education #Tech #Career,U034
+U001,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-21 11:57:08,64,9,37,#DataScience #Statistics #PySpark,U005
+U042,"Updated the dataset with retweets, likes, and comment counts for trend analysis benchmarking.",2026-09-03 23:01:08,355,10,24,#Education #EdTech #Learning,U020
+U018,Exploring MongoDB collections and NoSQL schema design for social media post storage.,2026-09-18 06:36:08,13,44,30,#Education #EdTech #Learning,U019
+U019,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U023,2026-09-13 21:54:08,411,58,81,#CloudComputing #AWS #Azure,U023
+U017,Super happy with our sentiment analysis results. VADER sentiment model gave 95% accurate scores on our dataset.,2026-09-01 14:42:08,164,34,45,#AI #GenAI #FutureOfWork,U020
+U014,Discussing social network graph metrics including degree centrality and modularity with @U009.,2026-09-07 21:54:08,80,14,117,#SocialMedia #Networking #Tech,U009
+U041,Submitted the exploratory data analysis report on hashtag frequencies and sentiment distribution.,2026-09-10 20:07:08,284,41,53,#AI #MachineLearning #DeepLearning,U021
+U009,Network visualization gets cluttered when plotting over 1000 nodes at once. Need to filter top centrality users.,2026-09-01 16:30:08,28,12,34,#DataScience #DataVisualisation #Tech,U015
+U014,Network visualization gets cluttered when plotting over 1000 nodes at once. Need to filter top centrality users.,2026-09-17 15:49:08,346,17,47,#Python #DataScience #Coding,U036
+U019,Loving how easy it is to analyze social network graphs using NetworkX and PySpark! Great learning experience.,2026-09-11 12:10:08,257,3,2,#Cloud #Tech #CyberSecurity,U022
+U040,Exploring MongoDB collections and NoSQL schema design for social media post storage.,2026-09-11 22:21:08,402,21,97,#Education #BigDataAnalytics #StudentLife,U008
+U022,Too many missing values in the retweets and shares column! Standardizing CSV schemas is painful. @U020,2026-09-02 21:39:08,235,70,87,#Python #Developer #Programming,U020
+U028,Configuring local SparkSession master settings local[*] for desktop execution testing.,2026-09-05 04:20:08,289,60,73,#Education #Tech #Career,U024
+U040,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U039,2026-09-16 08:15:08,231,41,107,#CloudComputing #AWS #Azure,U039
+U038,Just completed our community detection project using Greedy Modularity algorithms! Works like a charm with @U020.,2026-09-06 21:34:08,131,41,19,#DataScience #Statistics #PySpark,U020
+U012,Social media API rate limits are extremely restrictive now. Glad we can use custom CSV datasets instead.,2026-09-14 17:30:08,318,58,9,#Cloud #Tech #CyberSecurity,U040
+U046,Attended a fantastic webinar on AI and Big Data Analytics today. Feeling very inspired! cc @U016,2026-09-16 22:22:08,180,69,78,#AI #ArtificialIntelligence #TechTrends,U016
+U018,Exploring MongoDB collections and NoSQL schema design for social media post storage.,2026-09-11 08:43:08,140,8,27,#AI #GenAI #FutureOfWork,U020
+U035,Check out this awesome dashboard built with Streamlit and Plotly. Super clean UI! @U034,2026-09-10 11:02:08,310,30,75,#AI #GenAI #FutureOfWork,U034
+U015,Disappointed with noisy data quality in raw social media posts. Preprocessing took way longer than expected.,2026-09-13 10:46:08,342,31,19,#AI #ArtificialIntelligence #TechTrends,U010
